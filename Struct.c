@@ -3,9 +3,6 @@
 
 #include "struct.h"
 
-
-
-
 int main(){
 
 	Booleen start = ENCOUR;

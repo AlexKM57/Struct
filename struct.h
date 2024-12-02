@@ -1,4 +1,3 @@
-
 #ifndef __HAUT_H__
 #define __HAUT_H__
 

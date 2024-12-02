@@ -27,6 +27,4 @@ void create_player (joueur *p1)
 /*
 dans les structure pour le pointeur d'une variable on utilise le fleche (->)
 EX: p1->hp designe l'adresse le hp du joueur 1
-
-
 */

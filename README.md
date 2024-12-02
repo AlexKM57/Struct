@@ -1,3 +1,3 @@
 # Structure en C
 les structures
-et les enumerations
+et les enumerations \n :)

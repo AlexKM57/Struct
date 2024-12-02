@@ -19,7 +19,7 @@ int main(){
 
 void create_player (joueur *p1)
 {
-	strcpy(p1->name, "Alex");
+	strcpy(p1->name, "AlexKM57");
 	p1->hp = 100;
 	p1->mp = 100;
 } 

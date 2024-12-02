@@ -17,7 +17,6 @@ typedef enum booleen
 	ENCOUR//2
 }Booleen;
 
-
 void create_player (joueur *p1);
 
 #endif

@@ -1,19 +1,14 @@
 #include <stdio.h>
 #include <string.h>
-
 #include "struct.h"
 
 int main(){
 
 	Booleen start = ENCOUR;
 	printf("%d\n",start);
-	   
 	joueur p1 = {"", 0, 0};
-
 	create_player(&p1);
-
 	printf("le joueur 1 est  %s avec %d hp et %d mp\n", p1.name, p1.hp, p1.mp);
-
     return 0;
 }
 

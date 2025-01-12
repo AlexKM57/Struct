@@ -1,3 +1,3 @@
 # Structure en C
 les structures
-hello
+'\n' hello
